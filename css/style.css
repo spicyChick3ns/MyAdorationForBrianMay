@@ -2,12 +2,12 @@
   generic-family:"Sans Serif";
   color: #c0392b;
   }
-ul {
-    list-style-type: none;
-}
+
 button { 
   text-align: center;
+  vertical-align: middle;
   width:150px;
+  margin: 25px;
 }
 button:hover {
     background-color: #f39c12; 
