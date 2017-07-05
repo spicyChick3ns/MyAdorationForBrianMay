@@ -1,0 +1,30 @@
+  .headers { 
+  generic-family:"Sans Serif";
+  color: #c0392b;
+  }
+ul {
+    list-style-type: none;
+}
+button { 
+  text-align: center;
+  width:150px;
+}
+button:hover {
+    background-color: #f39c12; 
+    color: white;
+}
+a { 
+  color:#f39c12;
+}
+
+img{
+  max-width:100%;
+  max-height:100%;
+  display:inline-block;
+  overflow:auto;
+/*   margin:10px; */
+}
+jumbotron { 
+  background-color:#ecf0f1;
+  margin:10px;
+}
